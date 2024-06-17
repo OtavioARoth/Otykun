@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Otavio_Roth
-- 👀 I’m interested in learn
-- 🌱 I’m currently learning Kotlin, Web, POO
+Olá, sou Otavio Augusto Roth
+Estou começando a procura na area de desenvolvimento.
+Atualmente estou aprendendo python e também JS.
+Tenho alguns projetos de escola em JAVA, C++ e um pessoal que utilizei um sistema de bot para whatsapp,
+onde o mesmo responde um rolar de dados D20 ao D4.
 
 
-<!---
-Otykun/Otykun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
